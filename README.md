@@ -1,4 +1,4 @@
-# Curso Proramação Orientada a Objeto
+# Curso Programação Orientada a Objetos
 
 Aprofundei meus conhecimentos em:
 
