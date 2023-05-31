@@ -1,4 +1,4 @@
-# Desafio Sistema Bancário
+# Curso Proramação Orientada a Objeto
 
 Aprofundei meus conhecimentos em:
 
@@ -7,3 +7,5 @@ Aprofundei meus conhecimentos em:
 - Leitura de dados usando a classe Scanner.
 - Utilização de estruturas de decisão e repetição.
 - Conversão de tipos ou Casting.
+
+## Ao concluir o curso, fui desafiada a criar um "Sistema Bancário" aplicando os conceitos aprendidos.
